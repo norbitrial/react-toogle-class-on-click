@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './style.css';
 
 type ClassProps = {
 
@@ -29,7 +30,7 @@ class ClassToggle extends Component<ClassProps, ClassState> {
                 <h3>Class Component</h3>
                 <button onClick={() => this.setVisible(!this.state.visible)}>Toggle</button>
                 <p>Visibility: <span role="img" aria-label="visibility">{this.state.visible ? '✅' : '❌'}</span></p>
-                {this.state.visible ? <div className="image-background"></div> : null}
+                {this.state.visible ? <div className="image-background-class"></div> : null}
             </>
         )
     }

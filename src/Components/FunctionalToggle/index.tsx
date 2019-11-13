@@ -9,7 +9,7 @@ const FunctionalToggle = () => {
             <h3>Functional Component</h3>
             <button onClick={() => setVisibile(!visible)}>Toggle</button>
             <p>Visibility: <span role="img" aria-label="visibility">{visible ? '👌' : '🙅🏾'}</span></p>
-            {visible ? <div className="image-background"></div> : null}
+            {visible ? <div className="image-background-functional"></div> : null}
         </>
     )
 }
