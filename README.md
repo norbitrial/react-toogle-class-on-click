@@ -1,3 +1,7 @@
+## React toggle visiblity on click examples 📘
+
+The repository represents three different type of solution for toggling visibility in a React app. There are examples with functional, class based and styled components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
