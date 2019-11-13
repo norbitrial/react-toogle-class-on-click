@@ -1,5 +1,5 @@
 import React from 'react';
-import Functional from './Components/Functional';
+import FunctionalToggle from './Components/FunctionalToggle';
 import './App.css';
 
 const App = () => {
@@ -10,7 +10,7 @@ const App = () => {
       
       <div className="container">
         <div className="row-item">
-          <Functional />
+          <FunctionalToggle />
         </div>
 
         <div className="row-item">

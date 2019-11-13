@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Dependency Status](https://david-dm.org/norbitrial/react-toogle-class-on-click.svg.svg)](https://david-dm.org/norbitrial/react-toogle-class-on-click.svg) [![Build Status](https://travis-ci.com/norbitrial/react-toogle-class-on-click.svg?branch=master)](https://travis-ci.com/norbitrial/react-toogle-class-on-click)
 
-## React toggle visiblity on click examples 📘
+## React toggle visiblity on click examples
 
-The repository represents three different type of solution for toggling visibility in a React app. There are examples with functional, class based and styled components.
+The repository represents three different type of solutions for toggling visibility 👀 in a React app. There are examples 📘 with functional, class based and styled components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

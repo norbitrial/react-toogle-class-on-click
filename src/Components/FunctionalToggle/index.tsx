@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './style.css';
 
-const Functional = () => {
+const FunctionalToggle = () => {
     const [visible, setVisibile] = useState(true);
 
     return (
@@ -14,4 +14,4 @@ const Functional = () => {
     )
 }
 
-export default Functional;
+export default FunctionalToggle;
