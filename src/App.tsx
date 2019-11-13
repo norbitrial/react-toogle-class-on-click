@@ -1,5 +1,6 @@
 import React from 'react';
 import FunctionalToggle from './Components/FunctionalToggle';
+import ClassToggle from './Components/ClassToggle';
 import './App.css';
 
 const App = () => {
@@ -14,7 +15,7 @@ const App = () => {
         </div>
 
         <div className="row-item">
-          classbased
+          <ClassToggle />
         </div>
 
         <div className="row-item">
