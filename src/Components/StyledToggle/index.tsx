@@ -14,7 +14,7 @@ const StyledToggle = () => {
     const [visible, setVisibile] = useState(true);
 
     return <>
-        <h3>Functional Component</h3>
+        <h3>Styled Component</h3>
         <button onClick={() => setVisibile(!visible)}>Toggle</button>
         <p>Visibility: <span role="img" aria-label="visibility">{visible ? '🤘' : '⛔'}</span></p>
         {visible ? <Image /> : null}
