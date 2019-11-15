@@ -1,9 +1,9 @@
 /* Intentionally has been created the same class with different name */
 
 .image-background-class {
-    background-image: url('/assets/sun.jpg');
+    background-image: url('/assets/summer.jpg');
     width: 280px;
-    height: 187px;
+    height: 186px;
     margin: 0 auto;
     border-radius: 5%;
     box-shadow: 5px 5px 5px 0px #dbdbdb;

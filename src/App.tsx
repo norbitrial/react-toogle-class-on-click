@@ -1,6 +1,7 @@
 import React from 'react';
 import FunctionalToggle from './Components/FunctionalToggle';
 import ClassToggle from './Components/ClassToggle';
+import StyledToggle from './Components/StyledToggle';
 import './App.css';
 
 const App = () => {
@@ -19,7 +20,7 @@ const App = () => {
         </div>
 
         <div className="row-item">
-          styled
+          <StyledToggle />
         </div>
       </div>
     </>
